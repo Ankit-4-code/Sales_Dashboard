@@ -1,4 +1,5 @@
 # Tableau Dashboard:
+This dashboard and all of it's subsequent worksheets in tableau are made for data analysis and visualizing the insights for better understanding in sales over the years in US. 
 This dashboard has namely two modes, a dark mode and a light background mode.
 
 Dark-background: 
